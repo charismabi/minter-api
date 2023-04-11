@@ -1,0 +1,102 @@
+::Padrao
+========
+{
+    "data": {
+        "series": [
+            "2022-10-25",
+            "2022-10-26",
+            "2022-10-27"
+        ],
+        "values": {
+            "Rate": {
+                "2022-10-25": 0.66,
+                "2022-10-26": 1.83,
+                "2022-10-27": 2.49
+            }
+        }
+    },
+}
+
+::str-value
+===========
+{
+    "data": {
+        "series": [
+            0,
+            2,
+            6,
+            8
+        ],
+        "values": {
+            "Posts": {
+                "0": 1,
+                "2": 1,
+                "6": 1,
+                "8": 1
+            }
+        }
+    },
+}
+
+::data-series
+=============
+{
+    "data": {
+        "categories": [
+            "#maríliamendonçabyocéane",
+            "#BEAUTY",
+            "#glowpartyeyeshadowpalette",
+        ],
+        "series": [
+            {
+                "data": [
+                    25.0,
+                    20.6,
+                    19.0,
+                ],
+                "name": "Interactions/Post"
+            }
+        ]
+    },
+}
+
+::data-series-names
+====================
+{
+    "data": {
+        "series": [
+            {
+                "name": "Text",
+                "y": 0
+            },
+            {
+                "name": "Link",
+                "y": 0
+            },
+            {
+                "name": "Photo",
+                "y": 3
+            },
+            {
+                "name": "Video",
+                "y": 11
+            },
+            {
+                "name": "Album",
+                "y": 23
+            },
+            {
+                "name": "Note",
+                "y": 0
+            },
+            {
+                "name": "Music",
+                "y": 0
+            },
+            {
+                "name": "Event",
+                "y": 0
+            }
+        ]
+    },
+}
